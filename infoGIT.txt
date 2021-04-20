@@ -1,0 +1,20 @@
+git config --global user.email "test@gmail.com"
+git config --global user.name "vasy"
+
+cd ~/Desctop/RESUME
+git init
+git add 
+git commit -m ""
+git remote add origin https://github.com/ReynardStas/VideoBG.git
+git push -u --force origin master
+
+
+git clone https://github.com/ReynardStas/RESUME.git
+
+git pull
+
+
+
+git commit -m "first commit"
+
+git push origin master
